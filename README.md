@@ -11,12 +11,7 @@ The Code Program is Zmrobo 3 I will give you a link on [here](https://oss.zmrobo
 
 ![image](https://github.com/user-attachments/assets/9826712b-c465-4342-a63a-6971db9d8961)
 
-Ranking Criteria
-- The one with the highest score will be ranked higher.
-- If the participating teams have the same score, the retirement will be considered. If a team has fewer retirements, it will be ranked higher.
-- If the participating teams have the same score and the same number of retirements, the team with the fastest time will be ranked higher.
-
-(The time will stop when the robot can complete all the tasks and the robot stops at the END point only. If the tasks are not complete and the robot stops at the END point, the time will be counted as 180 seconds.)
+##
 
 ## The Map 
 ![New Project (6)](https://github.com/user-attachments/assets/8b7405f2-6264-42f6-a172-207dd52889d7)
@@ -40,6 +35,15 @@ controller open the space-time channel. When the X mark on the controller lights
 only once per round of the competition).
 
 ![image](https://github.com/user-attachments/assets/f53574d4-747a-422c-b3f5-ed2331be0083)
+
+## 
+Ranking Criteria
+- The one with the highest score will be ranked higher.
+- If the participating teams have the same score, the retirement will be considered. If a team has fewer retirements, it will be ranked higher.
+- If the participating teams have the same score and the same number of retirements, the team with the fastest time will be ranked higher.
+
+(The time will stop when the robot can complete all the tasks and the robot stops at the END point only. If the tasks are not complete and the robot stops at the END point, the time will be counted as 180 seconds.)
+## 
 
 ## Total mission score is 100 points, consisting of:
 - Mission “Leaving the Start Point”: 10 points
