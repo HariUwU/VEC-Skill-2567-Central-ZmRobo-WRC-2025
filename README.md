@@ -7,10 +7,13 @@
 
 ### the  Robot Board using is M6 From ZmRobo
 
+The Code Program is Zmrobo 3 I will give you a link on [here](https://oss.zmrobo.com/scratch3/ZMROBO3_3.2.57_win.exe).
+
+![image](https://github.com/user-attachments/assets/9826712b-c465-4342-a63a-6971db9d8961)
+
 Ranking Criteria
 - The one with the highest score will be ranked higher.
-- If the participating teams have the same score, the retirement will be considered. If a team has fewer retirements,
-it will be ranked higher.
+- If the participating teams have the same score, the retirement will be considered. If a team has fewer retirements, it will be ranked higher.
 - If the participating teams have the same score and the same number of retirements, the team with the fastest time will be ranked higher.
 
 (The time will stop when the robot can complete all the tasks and the robot stops at the END point only. If the tasks are not complete and the robot stops at the END point, the time will be counted as 180 seconds.)
